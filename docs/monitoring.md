@@ -1,6 +1,6 @@
 # Monitoring & Logging
 
-The application uses **CloudWatch** for monitoring and logging. The current setup includes alarming to the slcak channel **#covid-tracker-alarms** via SNS+Lambda.
+The application uses **CloudWatch** for monitoring and logging. The current setup includes alarming to the slack channel **#covid-tracker-alarms** via SNS+Lambda.
 
 ## Monitoring
 
